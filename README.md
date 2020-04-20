@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Demo
 
-http://react-youtube.stanleyeric.com/
+https://react-youtube-stanleyeric.netlify.app/
